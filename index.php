@@ -1,3 +1,4 @@
+#FIX typo
 <?php
 function loadEnv($path)
 {
